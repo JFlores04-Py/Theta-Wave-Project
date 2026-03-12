@@ -1,0 +1,12 @@
+*.set
+
+*.fdt
+
+*.eeg
+
+.ipynb_checkpoints/
+
+**/.ipynb_checkpoints/
+
+ds004504/
+
